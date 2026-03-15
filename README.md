@@ -9,3 +9,4 @@ This repository collects engineering implementations spanning low-level digital 
 ### Image Processing Foundations
 * **01_OpenCV_Basics**: Color spaces, 3D intensity analysis, histogram visualization.
 * **02_Image_Math**: Point operations, LUT (Look-Up Table), image arithmetic, and masking.
+* **03_Bit_Slicing**: Bit-plane decomposition and data significance analysis (MSB/LSB).
