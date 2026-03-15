@@ -1,0 +1,10 @@
+# Image Preprocessing and Computer Vision Systems
+
+## About
+
+This repository collects engineering implementations spanning low-level digital image processing and advanced computer vision analysis. The notebooks demonstrate fundamentals of vision pipelines, matrix-level computation, and preparing visual data for downstream tasks such as segmentation, feature detection, and DCNN-based classification.
+
+## Table of Contents (Notebooks)
+
+### Image Processing Foundations
+* **01_OpenCV_Basics**: Color spaces, 3D intensity analysis, histogram visualization.
