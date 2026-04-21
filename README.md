@@ -12,3 +12,5 @@ This repository collects engineering implementations spanning low-level digital 
 * **03_Bit_Slicing**: Bit-plane decomposition and data significance analysis (MSB/LSB).
 * **04_Histogram_Equalization_and_Color_Spaces**: Histogram stretching, CLAHE, HSV transforms.
 * **05_Image_Binarization_and_Segmentation**: Otsu thresholding, iterative and adaptive binarization (Sauvola).
+* **06_Image_Scaling_and_Interpolation**: Nearest-neighbor and bilinear interpolation implementations.
+* **07_Advanced_Interpolation_Bicubic**: Bicubic interpolation with edge handling (padding).
