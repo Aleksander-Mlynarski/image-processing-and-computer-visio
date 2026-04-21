@@ -14,3 +14,6 @@ This repository collects engineering implementations spanning low-level digital 
 * **05_Image_Binarization_and_Segmentation**: Otsu thresholding, iterative and adaptive binarization (Sauvola).
 * **06_Image_Scaling_and_Interpolation**: Nearest-neighbor and bilinear interpolation implementations.
 * **07_Advanced_Interpolation_Bicubic**: Bicubic interpolation with edge handling (padding).
+
+### Detection and Morphology
+* **08_Hough_Transform_Line_Detection**: Standard Hough Transform (SHT) for line detection.
