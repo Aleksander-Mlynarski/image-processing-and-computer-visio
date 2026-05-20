@@ -21,3 +21,7 @@ This repository collects engineering implementations spanning low-level digital 
 * **10_Fourier**: Fourier transform, frequency-domain filtering, window-based filter design.
 * **11_Hough_Transform_Line_Detection**: Advanced linear structure detection (SHT vs. PHT) on real-world images.
 * **12_Hough_Transform_Directional_Space**: Custom $a$-$b$ parameter space and singularity analysis.
+
+### Segmentation and Classification
+* **13_Image_Segmentation_Region_Growing**: Region growing (DFS) on medical MRI imagery.
+* **14_Image_Segmentation_Split_and_Merge**: Quad-tree split-and-merge image decomposition.
