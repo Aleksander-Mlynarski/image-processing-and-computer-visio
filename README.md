@@ -19,3 +19,5 @@ This repository collects engineering implementations spanning low-level digital 
 * **08_Hough_Transform_Line_Detection**: Standard Hough Transform (SHT) for line detection.
 * **09_Morphological_Operations**: Erosion, dilation, opening/closing, reconstruction, and Top-Hat/Bottom-Hat filters.
 * **10_Fourier**: Fourier transform, frequency-domain filtering, window-based filter design.
+* **11_Hough_Transform_Line_Detection**: Advanced linear structure detection (SHT vs. PHT) on real-world images.
+* **12_Hough_Transform_Directional_Space**: Custom $a$-$b$ parameter space and singularity analysis.
