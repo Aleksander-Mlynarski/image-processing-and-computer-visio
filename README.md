@@ -26,3 +26,4 @@ This repository collects engineering implementations spanning low-level digital 
 * **13_Image_Segmentation_Region_Growing**: Region growing (DFS) on medical MRI imagery.
 * **14_Image_Segmentation_Split_and_Merge**: Quad-tree split-and-merge image decomposition.
 * **15_Connected_Component_Labeling_and_Classification**: Connected-component labeling (Union-Find) and Hu moment extraction.
+* **16_Object_Classification_Hard_Cases**: Industrial object classification (screws, nuts) under challenging lighting.
