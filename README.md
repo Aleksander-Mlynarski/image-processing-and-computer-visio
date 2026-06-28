@@ -28,3 +28,9 @@ This repository collects engineering implementations spanning low-level digital 
 * **15_Connected_Component_Labeling_and_Classification**: Connected-component labeling (Union-Find) and Hu moment extraction.
 * **16_Object_Classification_Hard_Cases**: Industrial object classification (screws, nuts) under challenging lighting.
 * **17_Traffic_Sign_Recognition_DCNN**: DCNN design and training for traffic sign classification (GTSRB).
+
+---
+## Technologies
+* **Python 3**, **OpenCV**, **NumPy**, **Matplotlib**
+* **TensorFlow/Keras** (DCNN projects)
+* **Scikit-Image / Scikit-Learn** (statistical and geometric analysis)
